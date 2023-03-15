@@ -1,0 +1,11 @@
+.App div {
+  border: 2px solid Ogrey;
+  padding: 40px;
+  margin: 4px;
+}
+
+.Rect {
+  border: 2px solid grey;
+  padding: 40px;
+  margin: 4px;
+}
